@@ -1,0 +1,213 @@
+.header {
+  width: 1300px;
+  height: 600px;
+  margin: 0 auto;
+  border: 1px solid;
+}
+.header--nav {
+  width: 1300px;
+  height: 100px;
+  margin: 0 auto;
+  display: flex;
+}
+.header--nav .nav--logo {
+  width: 20%;
+  height: 100%;
+}
+.header--nav .nav--logo img {
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.header--nav .nav--list {
+  width: 60%;
+  height: 100%;
+}
+.header--nav .nav--list ul {
+  display: flex;
+  list-style: none;
+  gap: 80px;
+  margin-top: 40px;
+}
+.header--nav .nav--list ul img {
+  margin-top: -10px;
+}
+.header--nav .nav--extra {
+  width: 20%;
+  height: 100%;
+}
+.header--nav .nav--extra button {
+  width: 120px;
+  height: 50px;
+  margin-top: 25px;
+  margin-left: 20px;
+  background-color: azure;
+}
+.header--nav .nav--extra button h3 {
+  color: #747C8B;
+}
+.header--hero {
+  width: 1300px;
+  height: 500px;
+  background-color: #EFF5FF;
+  display: flex;
+}
+.header--hero .hero--text {
+  width: 55%;
+  height: 100%;
+}
+.header--hero .hero--text h1 {
+  margin-top: 100px;
+  margin-left: 80px;
+}
+.header--hero .hero--text h1 span {
+  color: #2F5DC7;
+}
+.header--hero .hero--text p {
+  margin-left: 80px;
+}
+.header--hero .hero--text button {
+  width: 250px;
+  height: 60px;
+  background-color: #FFCD2D;
+  margin-left: 80px;
+  margin-top: 100px;
+  border-radius: 6px;
+}
+.header--hero .hero--text button h5 {
+  color: #373633;
+}
+.header--hero .hero--text img {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.header--hero .hero--img {
+  width: 45%;
+  height: 100%;
+}
+.header--hero .hero--img img {
+  margin-top: 60px;
+  margin-left: -20px;
+}
+
+.collection {
+  width: 1140px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.collection img {
+  margin-left: 1000px;
+  margin-top: 70px;
+}
+.collection h1 {
+  margin-top: -200px;
+  font-size: 30px;
+}
+
+.how {
+  width: 1140px;
+  height: 500px;
+  margin: 0 auto;
+}
+.how ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  margin-left: -40px;
+}
+.how ul h6 {
+  color: #373633;
+  font-size: 16px;
+  margin-left: 20px;
+}
+.how ul h6 span {
+  color: #3361CB;
+}
+.how ul img {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.box {
+  width: 260px;
+  height: 200px;
+  background-color: #EFF5FF;
+}
+
+.box2 {
+  width: 260px;
+  height: 200px;
+  background-color: #EFF5FF;
+}
+
+.box3 {
+  width: 260px;
+  height: 200px;
+  background-color: #EFF5FF;
+}
+
+.box4 {
+  width: 260px;
+  height: 200px;
+  background-color: #3F6DD6;
+}
+.box4 h6 {
+  color: #FFFFFF;
+}
+
+.box5 {
+  width: 260px;
+  height: 200px;
+  background-color: #EFF5FF;
+}
+
+.box6 {
+  width: 260px;
+  height: 200px;
+  background-color: #EFF5FF;
+}
+
+.box7 {
+  width: 260px;
+  height: 200px;
+  background-color: #EFF5FF;
+}
+
+.vps {
+  width: 1140px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.texnik {
+  width: 1300px;
+  height: 700px;
+  margin: 0 auto;
+  background-color: #EFF5FF;
+}
+
+.container {
+  width: 1120px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.container span {
+  color: #2CAD62;
+}
+
+.container2 {
+  width: 1120px;
+  height: 360px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.main {
+  width: 1300px;
+  height: 2200px;
+  margin: 0 auto;
+  border: 1px solid;
+}
+
+/*# sourceMappingURL=main.css.map */
